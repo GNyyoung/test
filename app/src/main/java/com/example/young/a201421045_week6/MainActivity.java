@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     //헤헤 주석 추가
     //주석이를 더 추가
+    //안돼 주석 지우지마
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
