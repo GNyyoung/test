@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     //헤헤 주석 추가
-    //주석이를더추가
+    //주석이를 더 추가
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
